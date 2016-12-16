@@ -1,4 +1,4 @@
-public class GoodFirstProgram
+public class Good_First_Program
 {
 	public static void main(String[] args)
 	{

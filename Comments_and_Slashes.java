@@ -1,4 +1,4 @@
-public class CommentsAndSlashes
+public class Comments_and_Slashes
 {
 	public static void main(String[] args)
 	{

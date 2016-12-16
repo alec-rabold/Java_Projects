@@ -1,4 +1,4 @@
-public class FirstProg
+public class First_Prog
 {
 	public static void main(String[] args)
 	{
